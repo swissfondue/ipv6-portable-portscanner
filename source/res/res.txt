@@ -1,0 +1,10 @@
+Port Scanner results: -----------[ RESULTS ]----------
+
+Ip address     | Port  | Protocol |  ::1 | 53 | TCP | Closed
+ ::1 | 80 | TCP | Closed
+ ::1 | 110 | TCP | Closed
+ ::1 | 135 | TCP | Open
+ ::1 | 53 | UDP | Open
+ ::1 | 80 | UDP | Open
+ ::1 | 110 | UDP | Open
+ ::1 | 135 | UDP | Open
